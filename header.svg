@@ -1,0 +1,6 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#0f172a"/>
+  <text x="60" y="110" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">SMYRNA VOLZHEVSKA</text>
+  <text x="60" y="150" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">International Business · Data · Resource Systems</text>
+  <line x1="60" y1="170" x2="220" y2="170" stroke="#38bdf8" stroke-width="3"/>
+</svg>
