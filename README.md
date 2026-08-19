@@ -16,4 +16,4 @@ International Business student at Arcada UAS (starting autumn 2026) — coming f
 - Prior experience in business analysis / IT roles
 
 ---
-📍 Helsinki, Finland · 🎓 Arcada UAS, International Business (2026–)
+📍 Helsinki, Finland · 🎓 Arcada UAS, International Business (2026–2030)
