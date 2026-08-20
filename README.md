@@ -2,7 +2,7 @@
 
 ## Background
 
-I'm an International Business student at Arcada University of Applied Sciences. Before enrolling in my current degree, I worked as a Business Analyst on a contractual basis in software and digital service development projects. As the rapid development of AI tools has increasingly automated parts of this role, I developed an interest in Data Engineering and, over the past two years, built my technical knowledge in SQL, Python, data management and processing tools beyond what my initial BA role required. I now apply this technical background to studying logistics, resource allocation and material flows through economic systems.
+I'm an International Business student at Arcada University of Applied Sciences. Before enrolling in my current degree, I worked as a Business Analyst on a contractual basis in software and digital service development projects. As the rapid development of AI tools has increasingly automated parts of this role, I developed an interest in Data Engineering and, over the past two years, built my technical knowledge in SQL, Python, data management and processing tools beyond what my BA role initially required. I now apply this technical background to studying logistics, resource allocation and material flows through economic systems.
 
 ---
 
